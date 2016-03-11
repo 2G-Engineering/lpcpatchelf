@@ -7,6 +7,12 @@ If you're developing software for the NXP LPC microcontrollers using the gnu too
 
 This message doesn't prevent you from flashing the image because OpenOCD will calculate the correct checksum for you, but it prevents you from doing a verify step.
 
+Or you're using the mbed platform for the LPC1768 microcontrollers with the external tool-chain and you're annoyed reading:
+
+> *****
+> ***** You must modify vector checksum value in *.bin and *.hex files.
+> *****
+
 This utility is the remedy. 
 
 # Howto:
