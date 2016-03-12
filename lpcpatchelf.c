@@ -6,7 +6,7 @@
  *
  * Author     : Nils Pipenbrinck <n.pipenbrinck@hilbert-space.de>
  * Copyright  : (C) Nils Pipenbrinck 2016
- * Website    : /
+ * Website    : http://hilbert-space.de/?p=178
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
